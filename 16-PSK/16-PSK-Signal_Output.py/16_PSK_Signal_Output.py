@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 # Definir los parámetros de la señal
 duration = 2.0  # duración de la señal en segundos
 fc = 6  # frecuencia de la portadora en Hz
