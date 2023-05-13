@@ -39,5 +39,6 @@ plt.xlim(0, duration)
 plt.legend()
 plt.grid(True)
 
+
 plt.tight_layout()
 plt.show()

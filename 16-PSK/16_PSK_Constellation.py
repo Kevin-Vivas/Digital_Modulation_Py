@@ -38,6 +38,7 @@ def plot_constellation(modem):
     ax2.set_xlabel('Real')
     ax2.set_ylabel('Imag')
     ax2.set_title(modem.name + ' Constellation')
+    
     ax2.grid(True)
     
     plt.show()
