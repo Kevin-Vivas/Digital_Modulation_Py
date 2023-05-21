@@ -44,7 +44,7 @@ for i, M in enumerate(arrayOfM):
     ax.semilogy(EbN0dBs,SER_theory,color = colors[i],linestyle='-',label='Theory '+str(M)+'-'+mod_type.upper())
 
 ax.set_xlabel('Eb/N0(dB)');ax.set_ylabel('SER ($P_s$)')
-ax.set_title('Probability of Symbol Error for M-'+str(mod_type)+' over AWGN')
+ax.set_title('Probability of Symbol Error for M-'+str(mod_type))
 ax.set_ylim([1e-3, 10**0])
 
 ax.legend();plt.show()

@@ -25,7 +25,7 @@ plt.title('Diagrama de constelación')
 plt.subplot()
 for i in range(M):
     plt.plot(t, np.real(senal_modulada*(constelacion[i]/np.abs(constelacion[i]))))
-plt.title('Diagrama de ojo')
+plt.title('Diagrama de ojo 16-PSK')
 
 # Graficar la señal modulada
 '''

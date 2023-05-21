@@ -23,7 +23,7 @@ def plot_constellation(modem):
     ax1.axvline(0, color='k', linestyle='--')
     ax1.set_xlabel('Real')
     ax1.set_ylabel('Imag')
-    ax1.set_title(modem.name + ' Constellation')
+    ax1.set_title('16_' + modem.name + '_Phasor_Diagram')
 
  
     ax1.grid(True)
@@ -37,7 +37,7 @@ def plot_constellation(modem):
     ax2.axvline(0, color='k', linestyle='--')
     ax2.set_xlabel('Real')
     ax2.set_ylabel('Imag')
-    ax2.set_title(modem.name + ' Constellation')
+    ax2.set_title('16_' + modem.name + '_Constellation')
     
     ax2.grid(True)
     

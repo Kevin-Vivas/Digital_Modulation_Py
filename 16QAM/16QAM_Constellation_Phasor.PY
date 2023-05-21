@@ -35,7 +35,7 @@ def GrayMapping(M):
 
 # Generate QAM16 constellation points
 QAM16 = QAMModem(16)
-QAM16.constellation = GrayMapping(16)[:, 0]
+QAM16.constellation = GrayMapping(16)[:, 0] # cambia M-QAM
 
 # Create figure and two subplots for constellation and phasor diagrams
 fig, (ax1, ax2) = plt.subplots(nrows=1, ncols=2, figsize=(10, 5))
