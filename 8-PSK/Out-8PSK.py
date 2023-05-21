@@ -30,7 +30,7 @@ for i, symbol in enumerate(symbols):
 
 # Graficar la señal modulada
 plt.figure(figsize=(20,5))
-plt.plot(t, signal.real, color='r', label='Salida-8PSK')
+plt.plot(t, signal.real, color='r', label='Salida-8PSK') 
 #plt.plot(t, signal.imag, color='b', label='Imag')
 plt.title('Señal modulada 8-PSK')
 plt.xlabel('Tiempo (s)')
