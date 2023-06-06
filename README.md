@@ -20,21 +20,11 @@
 
 Image Description |  Image
 ------------ |  -------------
-**QPSK phasor and constellation diagram** |  <img align="center" src="image/QPSK_Diagram_Constellation_Phasor.png" width="300" /><br>  1. [QPSK phasor and constellation diagram](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/QPSK_New/diagramas.py)
-**QPSK Eye Digram** |  <img align="center" src="image/Digram_Eyes_QPSK.png" width="300" /><br>  2. [QPSK Eye Digram](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/QPSK_New/QPSK_Digram_Eye.py)
-**Modulated_Wave** |  <img align="center" src="image/Modulated_Wave_QPSK.png" width="300" /><br>  3. [Modulated_Wave](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/QPSK_New/qpsk.py)
+**QPSK phasor and constellation diagram** |  <img align="center"src="image/QPSK_Diagram_Constellation_Phasor.png" width="250" /><ar>  1. [QPSK phasor and constellation diagram](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/QPSK_New/diagramas.py)
+**QPSK Eye Digram** |  <img align="center"src="image/Digram_Eyes_QPSK.png" width="6000" /><ar>  2. [QPSK Eye Digram](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/QPSK_New/QPSK_Digram_Eye.py)
+**Modulated_Wave** |  <img align="center"src="image/Modulated_Wave_QPSK.png" width="6000" /><ar>  2. [Modulated_Wave](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/QPSK_New/qpsk.py)
 
 # PSK Phase Shift Keying
 Image Description |  Image
 ------------ |  -------------
-**8-PSK phasor and constellation diagram** |  <img align="center" src="image/8_PSK_Diagram_Phasorial_Constellation.png" width="300" /><br>  1. [8-PSK phasor and constellation diagram](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/8-PSK/8-PSK.py)
-**8-PSK Signal Output** |  <img align="center" src="image/Signal_Output_8PSK.png" width="300" /><br>  2. [Signal_Output_8PSK](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/8-PSK/Out-8PSK.py)
-**16-PSK phasor and constellation diagram** |  <img align="center" src="image/16_PSK_Diagram_Phasorial_Constellation.png" width="300" /><br>  3. [16-PSK_phasor_and_constellation diagram]()
-**16-PSK Signal Output** |  <img align="center" src="image/Signal_Output_16PSK.png" width="300" /><br>  4. [16_PSK_Signal_Output](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/16-PSK/16_PSK_Signal_Output.py)
-**16-PSK Eye Digram** |  <img align="center" src="image/Diagram-Eye_16_PSK.png" width="300" /><br>  5. [16-PSK_Eye_Digram](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/16-PSK/16-PSK_%20Eye%20Diagrams)
-**32-PSK phasor and constellation diagram** |  <img align="center" src="image/32_PSK_Diagram_Phasorial_Constellation.png" width="300" /><br> 6.[32_PSK_Diagram_Phasorial_Constellation](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/32-PSK/Constellation_32PSK.py)
-**32-PSK Signal Output** |  <img align="center" src="image/Signal_Output_32PSK.png" width="300" /><br>  7. [32-PSK_Signal_Output](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/32-PSK/Output_32_PSK)
-**32-PSK Eye Digram** |  <img align="center" src="image/Diagram-Eye_32_PSK.png" width="300" /><br>  8. [32-PSK Eye Digram](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/32-PSK/32-PSK_%20Eye%20Diagrams.py)
-**Error Rates PSK** |  <img align="center" src="image/Error_Rates_PSK.png" width="300" /><br>  9. [Error_Rates_PSK](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/Error_Rates_PSK/Main.py)
-
-# QAM - Quadrature Amplitude Modulation
+**8-PSK phasor and constellation diagram** |  <img align="center"src="image/8_PSK_Diagram_Phasorial_Constellation.png" width="2000" /><ar>  1. [8-PSK phasor and constellation diagram](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/8-PSK/8-PSK.py)
