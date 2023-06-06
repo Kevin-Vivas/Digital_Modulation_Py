@@ -1,3 +1,7 @@
+# 💰 **You can help me by Donating**
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/Vivas143)
+
+
 # Python Graphics for Digital Modulation
 
 **The "Digital_Modulation_Py" repository by Kevin-Vivas is a visually captivating resource for exploring various digital modulation techniques, including ASK, FSK, PSK, and QAM, using Python. Here's a brief summary of its key features:**
@@ -29,7 +33,7 @@ Image Description |  Image
 ------------ |  -------------
 **8-PSK phasor and constellation diagram** |  <img align="center" src="image/8_PSK_Diagram_Phasorial_Constellation.png" width="300" /><br>  1. [8-PSK phasor and constellation diagram](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/8-PSK/8-PSK.py)
 **8-PSK Signal Output** |  <img align="center" src="image/Signal_Output_8PSK.png" width="300" /><br>  2. [Signal_Output_8PSK](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/8-PSK/Out-8PSK.py)
-**16-PSK phasor and constellation diagram** |  <img align="center" src="image/16_PSK_Diagram_Phasorial_Constellation.png" width="300" /><br>  3. [16-PSK_phasor_and_constellation diagram]()
+**16-PSK phasor and constellation diagram** |  <img align="center" src="image/16_PSK_Diagram_Phasorial_Constellation.png" width="300" /><br>  3. [16-PSK_phasor_and_constellation diagram](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/16-PSK/16_PSK_Constellation.py)
 **16-PSK Signal Output** |  <img align="center" src="image/Signal_Output_16PSK.png" width="300" /><br>  4. [16_PSK_Signal_Output](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/16-PSK/16_PSK_Signal_Output.py)
 **16-PSK Eye Digram** |  <img align="center" src="image/Diagram-Eye_16_PSK.png" width="300" /><br>  5. [16-PSK_Eye_Digram](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/16-PSK/16-PSK_%20Eye%20Diagrams)
 **32-PSK phasor and constellation diagram** |  <img align="center" src="image/32_PSK_Diagram_Phasorial_Constellation.png" width="300" /><br> 6.[32_PSK_Diagram_Phasorial_Constellation](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/32-PSK/Constellation_32PSK.py)
@@ -38,3 +42,23 @@ Image Description |  Image
 **Error Rates PSK** |  <img align="center" src="image/Error_Rates_PSK.png" width="300" /><br>  9. [Error_Rates_PSK](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/Error_Rates_PSK/Main.py)
 
 # QAM - Quadrature Amplitude Modulation
+Image Description |  Image
+------------ |  -------------
+**16-QAM phasor and constellation diagram** |  <img align="center" src="image/16_QAM_Diagram_Phasorial_Constellation.png" width="300" /><br>  1. [16-QAM_phasor_and_constellation_diagram](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/16QAM/16QAM_Constellation_Phasor.PY)
+**16-QAM Signal Output** |  <img align="center" src="image/16_QAM_SIGNAL_OUT.png" width="300" /><br>  2. [16-QAM_Signal_Output]()
+**Error Rates QAM** |  <img align="center" src="image/Error_Rates_QAM.png" width="300" /><br>  3. [Error_Rates_QAM](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/Error_Rates_QAM/QAM_Error.py)
+
+# Recommended_books  
+- [Digital Modulations using Python](https://www.gaussianwaves.com/digital-modulations-using-python/)
+
+- [Digital Modulations Libraries using Python ](https://www.gaussianwaves.com/DigiCommPy/modem.html#DigiCommPy.modem.Modem)
+
+#  Required Installations for PowerShell
+```powershell
+pip install matplotlib
+```
+
+```powershell
+ pip install sympy
+```
+
