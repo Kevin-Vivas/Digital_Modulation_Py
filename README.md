@@ -20,7 +20,7 @@
 
 Image Description |  Image
 ------------ |  -------------
-**QPSK phasor and constellation diagram** |  <img align="center"src="image/QPSK_Diagram_Constellation_Phasor.png" width="6000" /><ar>  1. [QPSK phasor and constellation diagram](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/QPSK_New/diagramas.py)
+**QPSK phasor and constellation diagram** |  <img align="center"src="image/QPSK_Diagram_Constellation_Phasor.png" width="250" /><ar>  1. [QPSK phasor and constellation diagram](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/QPSK_New/diagramas.py)
 **QPSK Eye Digram** |  <img align="center"src="image/Digram_Eyes_QPSK.png" width="6000" /><ar>  2. [QPSK Eye Digram](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/QPSK_New/QPSK_Digram_Eye.py)
 **Modulated_Wave** |  <img align="center"src="image/Modulated_Wave_QPSK.png" width="6000" /><ar>  2. [Modulated_Wave](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/QPSK_New/qpsk.py)
 
