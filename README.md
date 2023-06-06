@@ -25,7 +25,6 @@ Image Description |  Image
 **Modulated_Wave** |  <img align="center"src="image/Modulated_Wave_QPSK.png" width="6000" /><ar>  2. [Modulated_Wave](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/QPSK_New/qpsk.py)
 
 # PSK Phase Shift Keying
-
 Image Description |  Image
 ------------ |  -------------
 **8-PSK phasor and constellation diagram** |  <img align="center"src="image/8_PSK_Diagram_Phasorial_Constellation.png" width="2000" /><ar>  1. [8-PSK phasor and constellation diagram](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/8-PSK/8-PSK.py)
