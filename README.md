@@ -1,12 +1,15 @@
-# Communication-Modulation
-This repository provides digital modulation techniques, including QPSK,PSK and QAM,using Python.
+# Digital_Modulation_Py
+Welcome to the Digital_Modulation_Py repository! Here you will find a comprehensive collection of digital modulation techniques implemented in Python, including QPSK, PSK, and QAM.
 
-# 💰 **You can help me by Donating**
+Digital modulation is a fundamental aspect of modern communication systems, and understanding these techniques is crucial for anyone interested in the field. This repository aims to provide a practical and hands-on approach to learning and implementing digital modulation schemes using Python.
+
+
+## 💰 **You can help me by Donating**
 <a href="https://www.paypal.com/paypalme/Vivas143"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Nequi" width="100"></a> <a href="image/QR_nequi_numero.png"><img src="image/boton_nequi.png" alt="Nequi" width="94"></a>
   
 
 
-# Python Graphics for Digital Modulation
+## Python Graphics for Digital Modulation
 
 **The "Digital_Modulation_Py" repository by Kevin-Vivas is a visually captivating resource for exploring various digital modulation techniques, including  QPSK, PSK, and QAM, using Python. Here's a brief summary of its key features:**
 
@@ -24,7 +27,7 @@ This repository provides digital modulation techniques, including QPSK,PSK and Q
 
 **Below are the different images of the digital modulations:**
 
-# QPSK - Quadrature Phase Shift Keying
+## QPSK - Quadrature Phase Shift Keying
 
 Image Description |  Image
 ------------ |  -------------
@@ -32,7 +35,7 @@ Image Description |  Image
 **QPSK Eye Digram** |  <img align="center" src="image/Digram_Eyes_QPSK.png" width="300" /><br>  2. [QPSK Eye Digram](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/QPSK_New/QPSK_Digram_Eye.py)
 **Modulated_Wave** |  <img align="center" src="image/Modulated_Wave_QPSK.png" width="300" /><br>  3. [Modulated_Wave](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/QPSK_New/qpsk.py)
 
-# PSK Phase Shift Keying
+## PSK Phase Shift Keying
 Image Description |  Image
 ------------ |  -------------
 **8-PSK phasor and constellation diagram** |  <img align="center" src="image/8_PSK_Diagram_Phasorial_Constellation.png" width="300" /><br>  1. [8-PSK phasor and constellation diagram](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/8-PSK/8-PSK.py)
@@ -45,19 +48,19 @@ Image Description |  Image
 **32-PSK Eye Digram** |  <img align="center" src="image/Diagram-Eye_32_PSK.png" width="300" /><br>  8. [32-PSK Eye Digram](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/32-PSK/32-PSK_%20Eye%20Diagrams.py)
 **Error Rates PSK** |  <img align="center" src="image/Error_Rates_PSK.png" width="300" /><br>  9. [Error_Rates_PSK](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/Error_Rates_PSK/Main.py)
 
-# QAM - Quadrature Amplitude Modulation
+## QAM - Quadrature Amplitude Modulation
 Image Description |  Image
 ------------ |  -------------
 **16-QAM phasor and constellation diagram** |  <img align="center" src="image/16_QAM_Diagram_Phasorial_Constellation.png" width="300" /><br>  1. [16-QAM_phasor_and_constellation_diagram](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/16QAM/16QAM_Constellation_Phasor.PY)
 **16-QAM Signal Output** |  <img align="center" src="image/16_QAM_SIGNAL_OUT.png" width="300" /><br>  2. [16-QAM_Signal_Output]()
 **Error Rates QAM** |  <img align="center" src="image/Error_Rates_QAM.png" width="300" /><br>  3. [Error_Rates_QAM](https://github.com/Kevin-Vivas/Digital_Modulation_Py/blob/master/Error_Rates_QAM/QAM_Error.py)
 
-# Recommended_books  
+## Recommended_books  
 - [Digital Modulations using Python](https://www.gaussianwaves.com/digital-modulations-using-python/)
 
 - [Digital Modulations Libraries using Python ](https://www.gaussianwaves.com/DigiCommPy/modem.html#DigiCommPy.modem.Modem)
 
-#  Required Installations for PowerShell
+##  Required Installations for PowerShell
 ```powershell
 pip install matplotlib
 ```
