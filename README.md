@@ -1,14 +1,16 @@
+
 # 💰 **You can help me by Donating**
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/Vivas143)
+  
 
 
 # Python Graphics for Digital Modulation
 
-**The "Digital_Modulation_Py" repository by Kevin-Vivas is a visually captivating resource for exploring various digital modulation techniques, including ASK, FSK, PSK, and QAM, using Python. Here's a brief summary of its key features:**
+**The "Digital_Modulation_Py" repository by Kevin-Vivas is a visually captivating resource for exploring various digital modulation techniques, including  QPSK, PSK, and QAM, using Python. Here's a brief summary of its key features:**
 
 - **Visual Code Examples: The repository presents code snippets complemented by visually informative graphics, enabling a clearer understanding and practical application of digital modulation techniques.**
 
-- **Diverse Modulation Techniques: Experience a comprehensive collection of modulation techniques, such as ASK, FSK, PSK, and QAM, through visually engaging demonstrations and intuitive visualizations.**
+- **Diverse Modulation Techniques: Experience a comprehensive collection of modulation techniques, such as QPSK, PSK, and QAM, through visually engaging demonstrations and intuitive visualizations.**
 
 - **Practical Utility Tools: Benefit from utility functions and classes provided in the repository, which assist in generating waveforms, simulating channel impairments, and analyzing modulation performance metrics.**
 
