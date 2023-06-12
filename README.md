@@ -1,6 +1,5 @@
 # Digital_Modulation_Py
 Welcome to the Digital_Modulation_Py repository! Here you will find a comprehensive collection of digital modulation techniques implemented in Python, including QPSK, PSK, and QAM.
-
 Digital modulation is a fundamental aspect of modern communication systems, and understanding these techniques is crucial for anyone interested in the field. This repository aims to provide a practical and hands-on approach to learning and implementing digital modulation schemes using Python.
 
 
